@@ -83,3 +83,7 @@ gfx/trainers/cooltrainer_f.2bpp
 gfx/trainers/jessie_james.2bpp
 gfx/trainers/mom.2bpp
 gfx/trainers/waitress.2bpp
+.DS_Store
+.idea/modules.xml
+.idea/pokeorange.iml
+.idea/workspace.xml
